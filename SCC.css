@@ -8,7 +8,7 @@ h1 {
 }
 h2, h3, h4, h5, h6 {
   text-align: center;
-  background-color: purple; /* that's the code for scarlet red */
+  background-color: ##725f9f;
   font-size: 25px;
 }
 p {
